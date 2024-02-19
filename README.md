@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @UnkindGoose
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: zhogin.dima@gmail.com
-
+🤔
