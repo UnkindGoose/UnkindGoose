@@ -16,3 +16,7 @@ I enjoy doing ML stuff and creating apps. Hope you find something interesting in
 ## Courses and competitions:
 - [Yandex Machine Learning Trainings 3.0: CV](./Yandex_certificate.pdf)
 - GPN Intelligence Cup 2024 (competitor)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnkindGoose&layout=compact&theme=github_dark&langs_count=5&hide=PureBasic" >
+</a>
