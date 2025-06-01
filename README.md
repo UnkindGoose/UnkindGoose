@@ -5,7 +5,7 @@ I enjoy doing ML stuff and creating apps.
 Hope you find something interesting in my repos.
 
 ## Education
-- SPbSUT '25 Undergraduate in CS.
+- SPbSUT '25 Bachelor's Degree in CS.
 - [Innopolis: Advanced Engineering Schools '24](./Innopolis_certificate.pdf)
 
 ## Projects:
