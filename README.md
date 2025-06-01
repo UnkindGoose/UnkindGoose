@@ -1,6 +1,8 @@
-<h1 align="center">👋Hello there</h1>
+<h1 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJ1bXhrb2hwMjA5N2QzdnJ0YTIyaW8xaXFuY2ZnZmgxbWl4YWxiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="100"/></h1>
 
-I enjoy doing ML stuff and creating apps. Hope you find something interesting in my repos🙂.
+I enjoy doing ML stuff and creating apps.
+
+Hope you find something interesting in my repos.
 
 ## Education
 - SPbSUT '25 Undergraduate in CS.
