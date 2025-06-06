@@ -20,4 +20,4 @@ Hope you find something interesting in my repos.
   
 ## Courses and competitions:
 - [Yandex Machine Learning Trainings 3.0: CV](./Yandex_certificate.pdf)
-- GPN Intelligence Cup 2024 (competitor)
+- [GPN Intelligence Cup 2024 (competitor)](./GPN_Cup_Certificate.pdf)
