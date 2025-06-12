@@ -18,7 +18,7 @@ Hope you find something interesting in my repos.
 👉<kbd><a href="https://github.com/UnkindGoose/Computer-Vision-Cheat-Sheet"><img alt="CV Cheat Sheet" src="https://github.com/UnkindGoose/Computer-Vision-Cheat-Sheet/blob/main/repo_icon.png" width="64"/></a></kbd>
  Computer Vision Cheat Sheet.<br>
 
-👉<kbd><a href="https://github.com/UnkindGoose/Frog-Chef-Agent"><img alt="Frog-Chef" src="https://github.com/UnkindGoose/Frog-Chef-Agent/blob/main/frog.png" width="64"/></a></kbd>
+👉<kbd><a href="https://github.com/UnkindGoose/Frog-Chef-Agent"><img alt="Frog-Chef" src="https://github.com/UnkindGoose/Frog-Chef-Agent/blob/main/images/frog.png" width="64"/></a></kbd>
  Frog-Chef Agent with vector storage.<br>
   
 ## Courses and competitions:
