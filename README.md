@@ -2,7 +2,6 @@
 
 I enjoy doing ML stuff and creating apps.
 
-Hope you find something interesting in my repos.
 
 ## Education
 - SPbSUT '25 Bachelor's Degree in CS.
