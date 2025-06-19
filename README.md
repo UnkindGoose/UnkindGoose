@@ -25,4 +25,4 @@ I enjoy doing ML stuff and creating apps.
   
 ## Courses and competitions:
 - [Yandex Machine Learning Trainings 3.0: CV](./Yandex_certificate.pdf)
-- [GPN Intelligence Cup 2024 (participant)](./GPN_Cup_Certificate.pdf)
+- [GPN Intelligence Cup 2024](./GPN_Cup_Certificate.pdf)
