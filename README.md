@@ -18,8 +18,8 @@ I enjoy doing ML stuff and creating apps.
 👉<kbd><a href="https://www.rustore.ru/catalog/app/com.dima_zhogin.HandyText"><img alt="HandyText" src="./Handy_text_icon.png" width="64" /></a></kbd>
  Sign language translation app "HandyText".<br>
 
-👉<kbd><a href="https://github.com/UnkindGoose/Computer-Vision-Cheat-Sheet"><img alt="CV Cheat Sheet" src="https://github.com/UnkindGoose/Computer-Vision-Cheat-Sheet/blob/main/repo_icon.png" width="64"/></a></kbd>
- Computer Vision Cheat Sheet.<br>
+👉<kbd><a href="https://github.com/UnkindGoose/VK_TEST"><img alt="Intro seeker" src="https://upload.wikimedia.org/wikipedia/en/f/f1/TheSimpsons.jpg" width="64"/></a></kbd>
+ Intro search algorithm.<br>
 
 
   
