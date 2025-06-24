@@ -1,13 +1,8 @@
-<h1 align="center">👋Hi</h1>
-
-I enjoy doing ML stuff and creating apps.
-
-
-## 🤓Education
+## Education
 - SPbSUT '25 Bachelor's Degree in CS.
 - [Innopolis: Advanced Engineering Schools '24](./Innopolis_certificate.pdf)
 
-## ✍️Projects with links:
+## Projects with links:
 
  - <kbd><a href="https://github.com/UnkindGoose/MobileNetV2-TSM"><img alt="MobileNetV2-TSM" src="https://github.com/UnkindGoose/MobileNetV2-TSM/blob/main/images/confusion_matrix.png" width="64"/></a></kbd>
  Tensorflow implementation of MobileNetV2 with Temporal Shift Module layers.<br>
@@ -23,6 +18,6 @@ I enjoy doing ML stuff and creating apps.
 
 
   
-## 🏆Courses and competitions:
+## Courses and competitions:
 - [Yandex Machine Learning Trainings 3.0: CV](./Yandex_certificate.pdf)
 - [GPN Intelligence Cup 2024](./GPN_Cup_Certificate.pdf)
