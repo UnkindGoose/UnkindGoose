@@ -9,9 +9,6 @@
 
 - <kbd><a href="https://github.com/UnkindGoose/Frog-Chef-Agent"><img alt="Frog-Chef" src="https://github.com/UnkindGoose/Frog-Chef-Agent/blob/main/images/frog.png" width="64"/></a></kbd>
  Frog-Chef Agent with vector storage.<br>
- 
-- <kbd><a href="https://www.rustore.ru/catalog/app/com.dima_zhogin.HandyText"><img alt="HandyText" src="./Handy_text_icon.png" width="64" /></a></kbd>
- Sign language translation app "HandyText".<br>
 
 - <kbd><a href="https://github.com/UnkindGoose/VK_TEST"><img alt="Intro seeker" src="https://upload.wikimedia.org/wikipedia/en/f/f1/TheSimpsons.jpg" width="64"/></a></kbd>
  Intro search algorithm.<br>
