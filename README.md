@@ -1,6 +1,6 @@
 ## Education
 - SPbSUT '25 Bachelor's Degree in CS.
-- [Innopolis: Advanced Engineering Schools '24](./Innopolis_certificate.pdf)
+- Innopolis: Advanced Engineering Schools '24
 
 ## Projects with links:
 
@@ -12,9 +12,3 @@
 
 - <kbd><a href="https://github.com/UnkindGoose/VK_TEST"><img alt="Intro seeker" src="https://upload.wikimedia.org/wikipedia/en/f/f1/TheSimpsons.jpg" width="64"/></a></kbd>
  Intro search algorithm.<br>
-
-
-  
-## Courses and competitions:
-- [Yandex Machine Learning Trainings 3.0: CV](./Yandex_certificate.pdf)
-- [GPN Intelligence Cup 2024](./GPN_Cup_Certificate.pdf)
